@@ -20,6 +20,8 @@ http://exodus.desync.com/announce
 
 http://fr33dom.h33t.com:3310/announce
 
+http://mzon3.com:6699/announce
+
 http://php.hdcmct.com:2710/announce
 
 http://pow7.com/announce
@@ -27,6 +29,10 @@ http://pow7.com/announce
 http://t1.pow7.com/announce
 
 http://thefiles.ro/announce.php
+
+http://torrent.falcoware.com/announce.php
+
+http://tracker.0rz.ca/announce
 
 http://tracker.anime-miako.to:6969/announce
 
@@ -65,4 +71,3 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.publicbt.com:80
 
 udp://tracker.publicbt.com:80/announce
-
