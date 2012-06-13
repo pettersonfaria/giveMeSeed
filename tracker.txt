@@ -50,9 +50,13 @@ udp://11.rarbg.com:80
 
 udp://9.rarbg.com:2710
 
+udp://fr33domtracker.h33t.com:3310/announce
+
 udp://tracker.ccc.de:80
 
 udp://tracker.ccc.de:80/announce
+
+udp://tracker.istole.it:80/announce
 
 udp://tracker.openbittorrent.com:80
 
@@ -61,12 +65,4 @@ udp://tracker.openbittorrent.com:80/announce
 udp://tracker.publicbt.com:80
 
 udp://tracker.publicbt.com:80/announce
-
-
-http://9.rarbg.com:2710/announce
-
-udp://tracker.publicbt.com:80/announce
-
-udp://tracker.openbittorrent.com:80/announce
-
 
