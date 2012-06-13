@@ -8,6 +8,8 @@ http://9.rarbg.com:2710/announce
 
 http://bigtorrent.org:2710/announce
 
+http://bt.rutor.org:2710/announce
+
 http://bttrack.9you.com/:8080/announce
 
 http://bt.wrzru.com:2710/c5620717a5ed94a52ec2d2df187e8d9e/announce
@@ -19,6 +21,8 @@ http://exodus.desync.com:6969/announce
 http://exodus.desync.com/announce
 
 http://fr33dom.h33t.com:3310/announce
+
+http://media-torrent.net:2710/announce
 
 http://mzon3.com:6699/announce
 
