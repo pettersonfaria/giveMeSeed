@@ -22,6 +22,8 @@ http://exodus.desync.com/announce
 
 http://fr33dom.h33t.com:3310/announce
 
+http://inferno.demonoid.com:3414/announce
+
 http://media-torrent.net:2710/announce
 
 http://mzon3.com:6699/announce
