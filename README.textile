@@ -3,11 +3,9 @@ h1. GiveMeSeed
 h2. Como usar
 
 # Cole seus trackers no txt, um por linha
-
-<pre>
-$ ./tracker.sh
-</pre>
-
+  <pre><code>
+  $ ./tracker.sh
+  </code></pre>
 #  Após executado o script vai abrir o gedit com a nova lista
 #  Adiciona os trackers ao seu torrent
 
