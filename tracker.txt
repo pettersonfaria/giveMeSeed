@@ -2,6 +2,8 @@ http://10.rarbg.com:80
 
 http://10.rarbg.com/announce
 
+http://121.14.98.151:9090/announce
+
 http://61.154.116.205:8000/announce
 
 http://9.rarbg.com:2710/announce
